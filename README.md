@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bubroz. Former DoD intel. Currently risk intel.
 - 👀 I’m interested in information and intelligence gathering.
 - 🌱 I’m currently making my own AI-enabled research and analysis tools.
-- 💞️ I’m looking to collaborate on anything that makes sense and helps.
+- 🚀 I’m looking to collaborate on anything that makes sense and helps.
 - 📫 Reach me at @zacforristall on X
 
 <!---
