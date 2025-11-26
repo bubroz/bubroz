@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @bubroz. Former DoD intel. Currently risk intel.
-- 👀 I’m interested in information and intelligence gathering.
-- 🌱 I’m currently making my own research and analysis tools in Cursor.
-- 🚀 I’m looking to collaborate on anything that makes sense and helps.
-- 📫 Reach me at @zacforristall on X
+# Zac Forristall (@bubroz)
 
-<!---
-bubroz/bubroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Former intelligence operative turned builder.
+
+Current projects:
+
+- ClipScribe → extracts structured, evidence-backed data points from any audio/video file.  
+  FREE local (Apple Silicon) or $0.06/30 min cloud.  
+  github.com/bubroz/clipscribe
+
+- Chimera → automated Analytic Techniques platform (ACH, Red Hat, Pre-Mortem, etc.) using LLMs + RAG.  
+  Production-grade, MIT-licensed, deployed on GCP.  
+  github.com/bubroz/chimera
+
+Both repos are public, production-ready, and actively maintained.
+
+Open to contracts, advisory, or collaboration on OSINT, competitive intel, legal discovery, or any domain where raw data needs to become cited insight.
+
+X: @zacforristall  
+Email: zforristall@gmail.com
