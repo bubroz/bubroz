@@ -9,7 +9,8 @@ OSINT, geospatial, and AI infrastructure.
 | Project | Description |
 |---------|-------------|
 | **[zget](https://github.com/bubroz/zget)** | High-fidelity archival TUI for video downloads. Built on yt-dlp with 1,899 enriched extractors, SQLite library, and modern vintage terminal aesthetic. |
-| **Waypoint** | Location enrichment API. Turns GPS coordinates into contextual narratives with flood zones, wildfire risk, weather, and AI synthesis. |
+| **[Waypoint](https://github.com/bubroz/waypoint)** | **Location Enrichment API**. Transforms GPS coordinates into semantic context, hazard data, and AI-powered narratives. Integrating **Gemini 3 Flash** and **MCP** for forensic investigative agents. |
+| **[Groundwork](https://github.com/bubroz/groundwork)** | **Proprietary Property Engine**. Automated high-fidelity extraction from 3,143 counties. Operates as an **MCP Server** ("The Hands") for 100% recovery rate fraud audits. |
 | **Librarian** | Extracts structured, evidence-backed data points from any audio/video file. Local on Apple Silicon or $0.06/30 min cloud. |
 | **Chimera** | Agentic analytics platform (ACH, Red Hat, Pre-Mortem, etc.) using LLMs + RAG. |
 
