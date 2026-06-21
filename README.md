@@ -1,6 +1,6 @@
 # Zac Forristall (@bubroz)
 
-**Digital Forensics, Geospatial Intelligence, and High-Fidelity Archival Infrastructure.**
+**Intelligence tools and anything else that sparks my curiosity**
 
 **X**: [@zacforristall](https://x.com/zacforristall)  
 **Email**: <zforristall@gmail.com>
