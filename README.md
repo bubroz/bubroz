@@ -1,6 +1,6 @@
 # Zac Forristall (@bubroz)
 
-**Intelligence tools and anything else that sparks my curiosity**
+**Data for agentic pipelines, Intelligence tools and anything else that sparks my curiosity**
 
 Check out Librarian Labs @ https://librarianlabs.com & https://x.com/librarianlabs
 
