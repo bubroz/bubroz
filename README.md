@@ -1,8 +1,8 @@
 # Zac Forristall (@bubroz)
 
-**Making data for agentic pipelines at Librarian Labs
-https://librarianlabs.com & https://x.com/librarianlabs**
+**Making data for agentic pipelines at [Librarian Labs](https://librarianlabs.com)**
 
-**X**: [@zacforristall](https://x.com/zacforristall)
-**LinkedIn**: [@zacforristall](https://linkedin.com/in/zacforristall)
-**email**: zac@librarianlabs.com
+[@zacforristall](https://x.com/zacforristall)
+[@librarianlabs](https://x.com/librarianlabs)
+[@zacforristall](https://linkedin.com/in/zacforristall)
+zac@librarianlabs.com
