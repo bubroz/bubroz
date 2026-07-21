@@ -5,4 +5,5 @@
 **X** [@zacforristall](https://x.com/zacforristall)
 **X** [@librarianlabs](https://x.com/librarianlabs)
 **LinkedIn** [@zacforristall](https://linkedin.com/in/zacforristall)
-**email** zac@librarianlabs.com
+
+zac@librarianlabs.com
